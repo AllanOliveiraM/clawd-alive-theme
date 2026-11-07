@@ -2,7 +2,7 @@
 
 A [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) theme that gives Clawd more personality, using only art.
 
-- **Author**: Allan Oliveira
+- **Author**: Allan Oliveira Miraballes
 - **Version**: 1.0.0
 - **Theme ID**: `clawd-alive`
 - **Source**: <https://github.com/AllanOliveiraM/clawd-alive-theme>
@@ -36,7 +36,7 @@ Copy this folder into your Clawd on Desk themes folder as `clawd-alive`, then pi
 
 ## Credits
 
-- New animations by Allan Oliveira, drawn with an AI coding agent under his direction, derived from the Clawd art in Clawd on Desk.
+- New animations by Allan Oliveira Miraballes, drawn with an AI coding agent under his direction, derived from the Clawd art in Clawd on Desk.
 - The original Clawd art comes from [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk).
 - The Clawd character belongs to Anthropic. This is an unofficial, non-commercial fan theme, not affiliated with or endorsed by Anthropic.
 
