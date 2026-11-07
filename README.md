@@ -2,6 +2,8 @@
 
 A [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) theme that gives Clawd more personality, using only art.
 
+![Clawd Alive preview](preview.webp)
+
 - **Author**: Allan Oliveira Miraballes
 - **Version**: 1.0.0
 - **Theme ID**: `clawd-alive`
@@ -33,6 +35,12 @@ Copy this folder into your Clawd on Desk themes folder as `clawd-alive`, then pi
 - Every sleep has the twitching leg.
 - The confirm sound is off in this version. The completion sound is the same as in Clawd on Desk.
 - Tested on Ubuntu with GNOME under XWayland only. It has not been tried on Windows or macOS.
+
+## The full Clawd Alive
+
+A theme can only carry art, so this one has no mood, petting, mischief or fetch. Those live in a personal experiment on my fork of Clawd on Desk, where the pet reacts to you and does things on its own. There you can see it in [this video and write-up](https://github.com/rullerzhou-afk/clawd-on-desk/discussions/1334), and the code is on the [`feat/clawd-alive`](https://github.com/AllanOliveiraM/clawd-on-desk/tree/feat/clawd-alive) branch.
+
+It's built for my own use: there are no releases, you'd have to run it from source, and I've only tried it on Ubuntu under XWayland. For everyday use, this theme is the simple way to enjoy the art.
 
 ## Credits
 
